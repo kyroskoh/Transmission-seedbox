@@ -1,7 +1,7 @@
 # Transmission-seedbox
 This script work 100% with clean Debian & Ubuntu box
 
-wget https://github.com/waelisa/Transmission-seedbox/raw/master/install-transmission.sh
+wget https://github.com/kyroskoh/Transmission-seedbox/raw/master/install-transmission.sh
 
 chmod u+x install-transmission.sh
 
